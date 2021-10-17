@@ -1,1 +1,0 @@
-﻿!sudo /opt/nbia-data-retriever/nbia-data-retriever --cli /home/jupyter/TCIA_LIDC-IDRI_20200921.tcia -d /home/jupyter/ --y
