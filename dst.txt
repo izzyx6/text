@@ -1,0 +1,4 @@
+https://testsafebrowsing.appspot.com/s/unwanted.html
+https://testsafebrowsing.appspot.com/s/phishing.html
+https://testsafebrowsing.appspot.com/s/malware.html
+https://heise.de
